@@ -33,7 +33,7 @@ $variable_3 = 3;
 //float
 $variable_4 = 3.141516;
 //string
-$variable_5 = 'Variable-string':
+$variable_5 = 'Variable-string';
 //arrays
 $variable_6 = array("sin-clave", "con"=>"clave", "numero"=>23);
 
