@@ -11,8 +11,8 @@ asterisco más barra */
 
 // 3.Creación de variables
 //php es sensible a mayusculas y minusculas. 
-$mi_variable = "Mi primera variable"
-$Mi_variable = "Esta varables es diferente por la mayuscula"
+$mi_variable = "Mi primera variable";
+$Mi_variable = "Esta varables es diferente por la mayuscula";
 
 // 3.1Creación de constantes en PHP
 //Puedo nombras constantes de dos formas
